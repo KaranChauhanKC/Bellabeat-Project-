@@ -50,6 +50,8 @@ Based on this participants are divided into 4 categories -
 
 <img width="1260" height="542" alt="image" src="https://github.com/user-attachments/assets/c3e2cf41-bc4e-4afe-9ad2-e490e8c38057" />
 
+The average st
+
 **Types of users based on sleep**
 
 1. Insufficient Sleeper: sleep less than 7 hours
