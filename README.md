@@ -48,12 +48,17 @@ Based on this participants are divided into 4 categories -
 
 <img width="232" height="170" alt="image" src="https://github.com/user-attachments/assets/1d3b7a54-15f7-443a-8e50-75beadfaa524" />
 
+<img width="1260" height="542" alt="image" src="https://github.com/user-attachments/assets/c3e2cf41-bc4e-4afe-9ad2-e490e8c38057" />
+
 **Types of users based on sleep**
 
 1. Insufficient Sleeper: sleep less than 7 hours
 2. Sufficient Sleeper: sleep more than 7 hours
 
 <img width="290" height="120" alt="image" src="https://github.com/user-attachments/assets/8252e4c1-cead-4160-8835-f0f79eb79be2" />
+
+<img width="1254" height="546" alt="image" src="https://github.com/user-attachments/assets/3188dd30-4abb-43cf-8ae0-04194a0df281" />
+
 
 **Comparing user types by joing activity type and sleep type**
 
@@ -73,6 +78,30 @@ We have calculated activity level per hour in a day by using Horly Steps table. 
 
 The average step count varies from 0 to 600 in a day, with peak obsereved at 6:00 PM.
 
+**Analyze using Usage pattern**
+
+*Monthly Usage*
+
+We have divided usage frequency within a month in 3 categories:
+1. Infriquent Users - Uses less than 10 days within a month
+2. Moderate Users - Uses 10 - 20 days within a month
+3. Frequent Users - More than 20 days within a month
+
+<img width="353" height="144" alt="image" src="https://github.com/user-attachments/assets/e61efb45-d232-4519-8f57-24444d8a4447" />
+
+<img width="827" height="699" alt="image" src="https://github.com/user-attachments/assets/7543054c-d71e-4c61-8de7-af2669bef85d" />
 
 
+*Daily Usage*
+
+We have divided usage frequency within a day in 3 categories:
+1. Less than half day - Uses less than 12 hours a day
+2. More than half day - Uses 12-24 hours a day
+3. Allday - Uses 24 hours a day
+
+<img width="325" height="151" alt="image" src="https://github.com/user-attachments/assets/5ceee380-2afb-4c52-9dcd-5f206826e663" />
+
+<img width="1014" height="410" alt="image" src="https://github.com/user-attachments/assets/9736bbb6-881f-4431-8e4d-43928527cbb5" />
+
+<img width="1282" height="559" alt="image" src="https://github.com/user-attachments/assets/bfe54547-bb34-4b9b-8308-3c483e74d2f5" />
 
