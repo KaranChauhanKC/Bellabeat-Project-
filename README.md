@@ -50,8 +50,6 @@ Based on this participants are divided into 4 categories -
 
 <img width="1260" height="542" alt="image" src="https://github.com/user-attachments/assets/c3e2cf41-bc4e-4afe-9ad2-e490e8c38057" />
 
-The average st
-
 **Types of users based on sleep**
 
 1. Insufficient Sleeper: sleep less than 7 hours
@@ -79,6 +77,7 @@ We have calculated activity level per hour in a day by using Horly Steps table. 
 <img width="680" height="564" alt="image" src="https://github.com/user-attachments/assets/6e44b03c-2526-4039-aa1f-6545631a843b" />
 
 The average step count varies from 0 to 600 in a day, with peak obsereved at 6:00 PM.
+Also, the step count remains high in the time period from 8:00 AM to 8:00 PM. This suggests that the consumers are working professionals.
 
 **Analyze using Usage pattern**
 
@@ -107,3 +106,14 @@ We have divided usage frequency within a day in 3 categories:
 
 <img width="1282" height="559" alt="image" src="https://github.com/user-attachments/assets/bfe54547-bb34-4b9b-8308-3c483e74d2f5" />
 
+## Recommendations
+
+**Target Customers:**
+
+Based on our analysis, we have identified that Fitbit's primary customer base consists of working-class individuals who typically work 9-6 jobs. To expand our reach, Bellabeat can explore the preferences of other customer categories and introduce an application program tailored to their needs. 
+
+1. The device features:
+We should more focus on underused features of our competitors, we can conduct research on the sleep monitoring, heart rate monitoring, and weight monitoring capabilities of smart devices. By exploring innovative ideas, we can enhance these features and create devices that offer unique advantages and more userfriendly. 
+
+2. Gamification:
+Gaming and reward system could make it more entertaining to start a healthy lifestyle. Bellabeat counle introduce a system where users get reward points as their activity level increases. These reward points could then be used for benefits provided by Bellabeat.
