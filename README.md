@@ -125,4 +125,4 @@ Based on our analysis, we have identified that Fitbit's primary customer base co
 We should more focus on underused features of our competitors, we can conduct research on the sleep monitoring, heart rate monitoring, and weight monitoring capabilities of smart devices. By exploring innovative ideas, we can enhance these features and create devices that offer unique advantages and more userfriendly. 
 
 2. Gamification:
-Gaming and reward system could make it more entertaining to start a healthy lifestyle. Bellabeat counle introduce a system where users get reward points as their activity level increases. These reward points could then be used for benefits provided by Bellabeat.
+Gaming and reward system could make it more entertaining to start a healthy lifestyle. Bellabeat counle introduce a system like Steps Challange where users get reward points as their activity level increases. These reward points could then be used for benefits provided by Bellabeat.
