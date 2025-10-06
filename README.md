@@ -55,6 +55,7 @@ Based on this participants are divided into 4 categories -
 
 <img width="1260" height="542" alt="image" src="https://github.com/user-attachments/assets/c3e2cf41-bc4e-4afe-9ad2-e490e8c38057" />
 
+
 **Types of users based on sleep**
 
 1. Insufficient Sleeper: sleep less than 7 hours
@@ -71,6 +72,7 @@ Inner join is performed on of User ID column
 
 <img width="768" height="292" alt="image" src="https://github.com/user-attachments/assets/f01f8ad6-b847-42fc-9c1f-7e7d133bd40d" />
 
+
 The analysis indicates that 'insufficient sleep' is associated with 'active' and 'sedentary' activity users and sufficient sleep is associated with 'somewhat active' activity users
 
 **Activity peaks in a day**
@@ -80,6 +82,7 @@ We have calculated activity level per hour in a day by using Horly Steps table. 
 <img width="331" height="153" alt="image" src="https://github.com/user-attachments/assets/5ea4e396-9d59-458e-8ae2-97e8552e9791" />
 
 <img width="680" height="564" alt="image" src="https://github.com/user-attachments/assets/6e44b03c-2526-4039-aa1f-6545631a843b" />
+
 
 The average step count varies from 0 to 600 in a day, with peak obsereved at 6:00 PM.
 Also, the step count remains high in the time period from 8:00 AM to 8:00 PM. This suggests that the consumers are working professionals.
@@ -110,6 +113,7 @@ We have divided usage frequency within a day in 3 categories:
 <img width="1014" height="410" alt="image" src="https://github.com/user-attachments/assets/9736bbb6-881f-4431-8e4d-43928527cbb5" />
 
 <img width="1282" height="559" alt="image" src="https://github.com/user-attachments/assets/bfe54547-bb34-4b9b-8308-3c483e74d2f5" />
+
 
 ## Recommendations
 
