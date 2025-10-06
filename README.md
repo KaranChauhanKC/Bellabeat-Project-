@@ -20,7 +20,7 @@ FitBit Fitness Tracker Data - https://www.kaggle.com/datasets/arashnic/fitbit
 
 The Kaggle database contains a lot of information, comprising of eighteen different files, each detailing various aspects of activity, such as steps, intensity, calories burned, sleep patterns, heart rate and weight, among other metrics. The data pertains to approximately 33 total Fitbit users and covers a two-month period in 2016.
 
-**Limitation of Data**
+**Limitations of Data**
 
 1. Data has only two months of records and it is recorded in 2016, we can say it is out-dated
 2. User participation is inconsistent, few data have only below 30 IDs recorded
@@ -73,7 +73,7 @@ Inner join is performed on of User ID column
 
 The analysis indicates that 'insufficient sleep' is associated with 'active' and 'sedentary' activity users and sufficient sleep is associated with 'somewhat active' activity users
 
-** Activity peaks in a day**
+**Activity peaks in a day**
 
 We have calculated activity level per hour in a day by using Horly Steps table. To do this we have aggregated average step counts for each hour over a period of 31 days.
 
